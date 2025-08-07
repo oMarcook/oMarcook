@@ -54,13 +54,8 @@ Atendimento ao público e organização de agendamentos.
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oMarcook&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oMarcook&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oMarcook&theme=tokyo-night" />
-</p>
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=oMarcook&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oMarcook&layout=compact&theme=radical)](https://github.com/oMarcook)
 
 ---
 
@@ -73,6 +68,7 @@ Atendimento ao público e organização de agendamentos.
 ---
 
 > “Sempre em busca de novos aprendizados e desafios no mundo da tecnologia.” 🚀
+
 
 
 
