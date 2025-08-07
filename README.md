@@ -9,13 +9,17 @@
 
 ### 💡 Sobre Mim
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no SENAC (até 2027)  
-- 🌱 Estudando: **Java**, **SQL**, **HTML/CSS** e **metodologias ágeis**  
+- 🌱 Estudando: **JavaScript**, **TypeScript**, **Angular**, **Java**, **SQL**, **HTML/CSS**  
 - 💼 Experiência com atendimento ao público e vendas  
 - 📍 Local: São Paulo - SP
 
 ---
 
 ### 🛠️ Tecnologias que estudo
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -25,27 +29,37 @@
 ---
 
 ### 🧠 Soft Skills
-- Raciocínio lógico
-- Comunicação
-- Adaptabilidade
-- Trabalho em equipe
+- Raciocínio Lógico  
+- Boa comunicação  
+- Adaptabilidade  
+- Trabalho em equipe  
+
+---
+
+### 📚 Cursos e Certificações
+- **Lógica de Programação** – SENAI  
+- **Maratona Explorer** – Rocketseat  
+- **Excel Intermediário** – Excelera  
+
+---
+
+### 💼 Experiência Profissional
+
+**Promotor de Vendas** – *2024 / 2025*  
+Apresentação de produtos aos clientes, com foco em aumentar vendas e promover a marca.
+
+**Recepcionista – Consultório Odontológico** – *2022 / 2023*  
+Atendimento ao público e organização de agendamentos.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=oMarcook&show_icons=true&theme=tokyonight" />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oMarcook&layout=compact&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=oMarcook&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oMarcook&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oMarco
 
----
-
-### 📫 Contato
-
-- 📧 marco_cruzbr@outlook.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcodacruzbraga/)
-
-> "Aprender, praticar e evoluir todos os dias."
 
