@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Olá, eu sou o Marco Antônio</h1>
 
 <p align="center">
@@ -56,11 +55,14 @@ Atendimento ao público e organização de agendamentos.
 ### 📈 GitHub Stats
 
 <p align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=oMarcook&show_icons=true&theme=tokyonight" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oMarcook&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oMarco
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oMarcook&theme=tokyo-night" />
+</p>
 
+---
 
 ### 🌐 Contato
 
@@ -71,3 +73,6 @@ Atendimento ao público e organização de agendamentos.
 ---
 
 > “Sempre em busca de novos aprendizados e desafios no mundo da tecnologia.” 🚀
+
+
+
