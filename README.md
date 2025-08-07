@@ -63,3 +63,12 @@ Atendimento ao público e organização de agendamentos.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=oMarco
 
 
+### 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcodacruzbraga/)  
+📧 E-mail: marco_cruzbr@outlook.com  
+📱 Celular: (11) 98615-4812  
+
+---
+
+> “Sempre em busca de novos aprendizados e desafios no mundo da tecnologia.” 🚀
