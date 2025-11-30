@@ -8,7 +8,7 @@
 
 ### 💡 Sobre Mim
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no SENAC (até 2027)  
-- 🌱 Estudando: **JavaScript**, **TypeScript**, **Angular**, **Java**, **SQL**, **HTML/CSS**  
+- 🌱 Estudando: **JavaScript**, **TypeScript**, **Angular**, **Java**, **SQL**, **HTML/CSS** , **REACT** 
 - 💼 Experiência com atendimento ao público e vendas  
 - 📍 Local: São Paulo - SP
 
