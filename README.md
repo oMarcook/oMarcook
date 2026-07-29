@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Marco Antônio</h1>
 
 <p align="center">
-🎓 Estudante de ADS | 💻 Desenvolvedor em formação | 🚀 Focado em inovação e tecnologia  
+🎓 Estudante de ADS | 💻 Desenvolvedor | 🚀 Focado em inovação e tecnologia  
 </p>
 
 ---
